@@ -1,14 +1,10 @@
 file_format: "1"
-id: swept
-name: Swept
+id: tps65
+name: TPS65
 type: shield
-url: https://github.com/toomanyls/zmk-config-swept
+url: https://github.com/deSale327/zmk-config-swept
 requires: [pro_micro]
 features:
   - keys
   - pointer
   - display
-siblings:
-  - swept_left
-  - swept_right
-  - swept_dongle
